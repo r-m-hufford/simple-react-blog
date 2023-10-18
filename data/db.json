@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Second post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
+    },
+    {
+      "id": 3,
+      "title": "the codes",
+      "datetime": "October 17, 2023 6:18:39 PM",
+      "body": "wow coding. wowzers/"
+    },
+    {
+      "id": 5,
+      "title": "glombus",
+      "datetime": "October 17, 2023 4:32:27 PM",
+      "body": "a fun game"
+    },
+    {
+      "id": 6,
+      "title": "NodeJS api",
+      "datetime": "October 17, 2023 6:31:53 PM",
+      "body": "You can create a javascript api with node js"
+    }
+  ]
+}
